@@ -30,13 +30,13 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone <URL-репозитория>
+   git clone https://github.com/superlogarifm/Python-Arithmetic-Interpreter
    ```
 
 2. Перейдите в каталог проекта:
 
    ```bash
-   cd <название-проекта>
+   cd Python-Arithmetic-Interpreter
    ```
 
 3. Запустите программу:
